@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sir-hector" alt="sir-hector" /></a> </p>
 
-- 🌱 I’m currently learning **NextJS,TypeScript**
+🌱 I’m currently learning **NextJS,TypeScript**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
