@@ -18,4 +18,13 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sir-hector&show_icons=true&locale=en&layout=compact" alt="sir-hector" /></p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sir-hector&" alt="sir-hector" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sir-hector&show_icons=true&locale=en" alt="sir-hector" /></p>
+
+<table>
+  <tr>
+    <td valign="top"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sir-hector&show_icons=true&locale=en&layout=compact" alt="sir-hector" /></td>
+    <td valign="top"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sir-hector&" alt="sir-hector" /></td>
+    <td valign="top"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sir-hector&show_icons=true&locale=en" alt="sir-hector" /></td>
+   </td>
+  </tr>
+</table>
 </p>
